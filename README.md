@@ -152,3 +152,70 @@ Screen_monitoring/
 - Windows 10/11
 - Python 3.10+（开发时）
 - 同一局域网内的手机浏览器（Chrome / Safari）
+
+
+## 启动过程界面
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/545e7adf-1ff2-4f90-aa9a-2595897923f9" />
+
+
+
+## 启动成功界面
+
+<img width="934" height="730" alt="image" src="https://github.com/user-attachments/assets/42091f05-e911-4d0b-83c9-12b983827035" />
+
+## 📄 许可证
+
+MIT License
+
+## 💖 支持与赞助（打赏）
+
+如果这个项目对你有帮助，欢迎通过以下方式支持作者的持续维护与改进：
+
+* ⭐ **Star 本项目**（这是最好的支持方式）
+* 🍴 **Fork 并参与贡献**
+* 💬 提出 Issue / 改进建议
+* ☕ **自愿打赏（非强制）**
+
+### 打赏方式
+
+| 平台              | 说明          |
+| --------------- | ----------- |
+| 微信         | 扫描下方二维码     |
+<img width="902" height="890" alt="image" src="https://github.com/user-attachments/assets/d9a988e0-b9b8-48da-aace-9c2fbe492b55" />
+
+
+> 打赏完全自愿，不影响项目的任何功能或授权。
+
+## 📄 许可证
+
+本项目基于 **MIT License** 开源发布。
+你可以自由地使用、修改和分发本项目，但需保留原始版权声明。
+
+---
+
+## 🤝 贡献指南
+
+欢迎提交 **Issue** 和 **Pull Request**！
+
+建议流程：
+
+1. Fork 本仓库
+2. 新建分支进行修改
+3. 提交 PR 并简要说明修改内容
+
+如是较大改动，建议先提交 Issue 讨论。
+
+---
+
+## 📧 联系方式
+
+* Email：[1013344248@qq.com](mailto:1013344248@qq.com)
+* GitHub：@dlw830
+
+---
+
+**Enjoy coding!** 🚀
+如果你觉得这个项目有价值，别忘了点个 ⭐
+
+
+
